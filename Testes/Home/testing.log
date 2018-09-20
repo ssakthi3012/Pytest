@@ -10,3 +10,484 @@
 09/06/2018 03:43:16 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
 09/06/2018 03:43:16 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
 09/06/2018 03:43:16 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 12:09:08 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 12:09:10 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 12:09:10 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 12:09:10 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 12:09:10 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 12:09:10 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 02:10:56 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 02:11:00 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 02:11:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 02:11:00 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 02:11:00 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 02:11:01 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 02:13:21 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 02:13:24 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 02:13:24 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 02:13:24 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 02:13:24 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 02:13:24 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 02:16:15 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 02:16:15 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 02:16:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 02:16:15 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 02:16:15 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 02:16:15 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 02:58:13 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 02:58:17 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 02:58:17 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 02:58:17 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 02:58:18 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 02:58:18 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 02:59:47 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 02:59:48 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 02:59:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 02:59:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 02:59:48 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 02:59:48 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:02:58 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 03:02:59 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 03:02:59 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 03:02:59 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 03:02:59 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 03:02:59 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:02:59 PM - LoginTests - INFO: Username password verifile
+09/07/2018 03:03:53 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 03:03:53 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 03:03:53 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 03:03:53 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 03:03:53 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 03:03:53 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:07:36 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 03:07:37 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 03:07:37 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 03:07:37 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 03:07:37 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 03:07:37 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:07:37 PM - LoginTests - INFO: Not asserte checking
+09/07/2018 03:08:48 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 03:08:48 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 03:08:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 03:08:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 03:08:48 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 03:08:48 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:08:48 PM - LoginTests - INFO: Not asserte checking
+09/07/2018 03:10:14 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 03:10:15 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 03:10:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 03:10:15 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 03:10:15 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 03:10:15 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:10:15 PM - LoginTests - INFO: Not asserte checking
+09/07/2018 03:22:54 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/07/2018 03:22:55 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/07/2018 03:22:55 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/07/2018 03:22:55 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/07/2018 03:22:55 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/07/2018 03:22:55 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/07/2018 03:22:55 PM - LoginTests - INFO: Not asserte checking
+09/10/2018 04:22:30 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/10/2018 04:22:31 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/10/2018 04:22:31 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/10/2018 04:22:31 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/10/2018 04:22:31 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/10/2018 04:22:31 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/10/2018 04:22:31 PM - LoginTests - INFO: Not asserte checking
+09/10/2018 04:24:04 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/10/2018 04:24:04 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/10/2018 04:24:04 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/10/2018 04:24:04 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/10/2018 04:24:04 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/10/2018 04:24:04 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/10/2018 04:24:04 PM - LoginTests - INFO: Not asserte checking
+09/10/2018 04:37:52 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/10/2018 04:37:52 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/10/2018 04:37:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/10/2018 04:37:52 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/10/2018 04:37:52 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/10/2018 04:37:52 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/10/2018 04:37:52 PM - LoginTests - INFO: Not asserte checking
+09/10/2018 04:42:49 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/10/2018 04:42:50 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/10/2018 04:42:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/10/2018 04:42:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/10/2018 04:42:50 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/10/2018 04:42:50 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/10/2018 04:44:41 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/10/2018 04:44:42 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/10/2018 04:44:42 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/10/2018 04:44:42 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/10/2018 04:44:42 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/10/2018 04:44:42 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/17/2018 11:13:38 AM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/17/2018 11:13:39 AM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/17/2018 11:13:39 AM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/17/2018 11:13:39 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/17/2018 11:13:39 AM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/17/2018 11:13:39 AM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 10:09:44 AM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: name
+09/20/2018 10:09:44 AM - LoginPage - INFO: Cannot send data on the element with locator: first_name locatorType: name
+09/20/2018 10:09:47 AM - LoginPage - INFO: Element not found with locator: email and  locatorType: name
+09/20/2018 10:09:47 AM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: name
+09/20/2018 10:09:50 AM - LoginPage - INFO: Element not found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 10:09:50 AM - LoginPage - INFO: Cannot click on the element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 10:09:53 AM - LoginPage - INFO: Element not found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 10:09:53 AM - LoginPage - INFO: Element not found
+09/20/2018 10:44:59 AM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: name
+09/20/2018 10:44:59 AM - LoginPage - INFO: Cannot send data on the element with locator: first_name locatorType: name
+09/20/2018 10:45:02 AM - LoginPage - INFO: Element not found with locator: email and  locatorType: name
+09/20/2018 10:45:02 AM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: name
+09/20/2018 10:45:05 AM - LoginPage - INFO: Element not found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 10:45:05 AM - LoginPage - INFO: Cannot click on the element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 10:45:44 AM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 10:45:44 AM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 10:45:44 AM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 10:45:44 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 10:45:44 AM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 10:45:45 AM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 10:50:40 AM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 10:50:40 AM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 10:50:40 AM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 10:50:40 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 10:50:40 AM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 10:50:40 AM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 11:53:58 AM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 11:53:58 AM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 11:53:58 AM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 11:53:58 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 11:53:58 AM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 11:53:58 AM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:02:38 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:02:39 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:02:39 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:02:39 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:02:39 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:02:39 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:04:36 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:04:37 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:04:37 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:04:37 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:04:37 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:04:37 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:05:13 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:05:14 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:05:14 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:05:14 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:05:14 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:05:14 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:15:41 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:15:42 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:15:42 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:15:42 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:15:42 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:15:42 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:17:00 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:17:00 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:17:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:17:01 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:17:01 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:17:01 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:17:03 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 12:17:03 PM - LoginPage - INFO: Element Found
+09/20/2018 12:26:56 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:26:56 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:26:56 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:26:56 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:26:56 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:26:56 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:26:58 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 12:26:58 PM - LoginPage - INFO: Element Found
+09/20/2018 12:36:09 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:36:10 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:36:10 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:36:10 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:36:10 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:36:10 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:36:12 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 12:36:12 PM - LoginPage - INFO: Element Found
+09/20/2018 12:36:39 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:36:39 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:36:39 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:36:39 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:36:39 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:36:39 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:36:41 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 12:36:41 PM - LoginPage - INFO: Element Found
+09/20/2018 12:37:26 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:37:26 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:37:26 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:37:26 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:37:26 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:37:26 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:37:28 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 12:37:28 PM - LoginPage - INFO: Element Found
+09/20/2018 12:38:37 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:38:37 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:38:37 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:38:37 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:38:37 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:38:37 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:44:39 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 12:44:40 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 12:44:40 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 12:44:40 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 12:44:40 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 12:44:40 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 12:44:42 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 12:44:42 PM - LoginPage - INFO: Element Found
+09/20/2018 02:12:58 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 02:12:59 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 02:12:59 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 02:12:59 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 02:12:59 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 02:12:59 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 02:13:01 PM - LoginPage - INFO: Element found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 02:13:01 PM - LoginPage - INFO: Element Found
+09/20/2018 02:13:24 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 02:13:25 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 02:13:25 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 02:13:25 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 02:13:25 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 02:13:25 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 02:13:27 PM - LoginPage - INFO: Element found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 02:13:27 PM - LoginPage - INFO: Element Found
+09/20/2018 03:09:01 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:09:01 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:09:01 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:09:01 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:09:01 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:09:01 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:09:01 PM - LoginPage - INFO: Element found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 03:09:01 PM - LoginPage - INFO: Element Found
+09/20/2018 03:09:04 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:14:16 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:14:17 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:14:17 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:14:17 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:14:20 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:14:23 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:15:50 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:15:50 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:15:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:15:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:15:53 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:15:56 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:37:10 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:37:10 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:37:10 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:37:10 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:37:13 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:37:16 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:40:52 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:40:52 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:40:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:40:52 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:40:52 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:40:52 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:41:30 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:41:30 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:41:33 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 03:41:33 PM - LoginPage - INFO: Element not found
+09/20/2018 03:41:33 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:41:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:41:33 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:41:34 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:41:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:41:34 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:41:34 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:41:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:41:34 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:41:34 PM - LoginPage - INFO: Cannot click on the element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:41:37 PM - LoginPage - INFO: Element not found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 03:41:37 PM - LoginPage - INFO: Element not found
+09/20/2018 03:42:15 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:42:15 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:42:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:42:15 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:42:15 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:42:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:42:15 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:42:15 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element not found
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:42:18 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:42:18 PM - LoginPage - INFO: Cannot click on the element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:42:21 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 03:42:21 PM - LoginPage - INFO: Element not found
+09/20/2018 03:48:07 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:48:07 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:48:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:48:07 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:48:10 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:48:10 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:48:10 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:48:10 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:48:10 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:48:13 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:48:30 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:48:30 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:48:30 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:48:30 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:48:33 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:48:36 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: id
+09/20/2018 03:49:46 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:49:46 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:49:47 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:49:47 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:49:47 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:49:47 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:49:47 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:49:47 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element not found
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:49:50 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:49:50 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:49:53 PM - LoginPage - INFO: Element not found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 03:49:53 PM - LoginPage - INFO: Element not found
+09/20/2018 03:50:05 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:50:05 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:50:05 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:50:05 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:50:05 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:50:05 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:50:05 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:50:05 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:50:08 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 03:50:08 PM - LoginPage - INFO: Element not found
+09/20/2018 03:50:08 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:50:09 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 03:50:09 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:50:09 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 03:50:09 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 03:50:09 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 03:50:09 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 03:50:09 PM - LoginPage - INFO: Cannot click on the element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 03:50:10 PM - LoginPage - INFO: Element found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 03:50:10 PM - LoginPage - INFO: Element not found
+09/20/2018 04:49:17 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:18 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 04:49:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:18 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 04:49:18 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:21 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 04:49:21 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:49:21 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 04:49:21 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element not found
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element found with locator: txtalert and  locatorType: id
+09/20/2018 04:49:24 PM - LoginPage - INFO: Clicked on element with locator: txtalert locatorType: id
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:24 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 04:49:24 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:24 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 04:49:25 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:25 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:28 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 04:49:28 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:49:28 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 04:49:28 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 04:49:31 PM - LoginPage - INFO: Element not found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 04:49:31 PM - LoginPage - INFO: Element not found
+09/20/2018 04:49:47 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:48 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 04:49:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 04:49:48 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:49:48 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:49:51 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 04:49:51 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:49:51 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 04:49:51 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 04:49:54 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 04:49:54 PM - LoginPage - INFO: Element not found
+09/20/2018 04:50:26 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:50:27 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 04:50:27 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:50:27 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 04:50:27 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:50:27 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:50:30 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 04:50:30 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:50:30 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 04:50:30 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element not found
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element found with locator: txtalert and  locatorType: id
+09/20/2018 04:50:33 PM - LoginPage - INFO: Clicked on element with locator: txtalert locatorType: id
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:50:33 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:50:33 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:50:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:50:36 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 04:50:36 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:50:36 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 04:50:36 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 04:50:39 PM - LoginPage - INFO: Element not found with locator: //select[@ng-model='ObjRegistration.Demographics.Title'] and  locatorType: xpath
+09/20/2018 04:50:39 PM - LoginPage - INFO: Element not found
+09/20/2018 04:51:30 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:51:31 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 04:51:31 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:51:31 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 04:51:31 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 04:51:31 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element found with locator: txtalert and  locatorType: id
+09/20/2018 04:51:33 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 04:51:33 PM - LoginPage - INFO: Cannot click on the element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 04:51:33 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: name
+09/20/2018 04:51:33 PM - LoginPage - INFO: Cannot send data on the element with locator: first_name locatorType: name
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found with locator: email and  locatorType: name
+09/20/2018 04:51:33 PM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: name
+09/20/2018 04:51:33 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: name
+09/20/2018 05:49:16 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 05:49:17 PM - LoginPage - INFO: Sent data on element with locator: first_name locatorType: name
+09/20/2018 05:49:17 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 05:49:17 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+09/20/2018 05:49:17 PM - LoginPage - INFO: Element found with locator: first_name and  locatorType: name
+09/20/2018 05:49:17 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+09/20/2018 05:49:20 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 05:49:20 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 05:49:20 PM - LoginPage - INFO: Element found with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] and  locatorType: xpath
+09/20/2018 05:49:20 PM - LoginPage - INFO: Clicked on element with locator: .//*[@id='contact_form']/fieldset/div/div[3]/div/p/button[1] locatorType: xpath
+09/20/2018 05:49:22 PM - LoginPage - INFO: Element found with locator: .//div[@id='modernAlert']//p[contains(text(),'Your username or password is incorrect')] and  locatorType: xpath
+09/20/2018 05:49:22 PM - LoginPage - INFO: Element not found
+09/20/2018 05:49:22 PM - LoginPage - INFO: Element not found with locator: txtalert and  locatorType: id
+09/20/2018 05:49:22 PM - LoginPage - INFO: Cannot click on the element with locator: txtalert locatorType: id
+09/20/2018 05:49:22 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: name
+09/20/2018 05:49:22 PM - LoginPage - INFO: Cannot send data on the element with locator: first_name locatorType: name
+09/20/2018 05:49:22 PM - LoginPage - INFO: Element not found with locator: email and  locatorType: name
+09/20/2018 05:49:22 PM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: name
+09/20/2018 05:49:22 PM - LoginPage - INFO: Element not found with locator: first_name and  locatorType: name
